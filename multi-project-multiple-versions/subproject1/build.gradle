@@ -1,4 +1,4 @@
-gradle.release.failOnSnapshotDependencies = false
+release.failOnSnapshotDependencies = false
 
 dependencies {
     compile project(":subproject2")
